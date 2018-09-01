@@ -6,6 +6,8 @@ My general coding skills are as follows
 2. HTML/Javascript
 3. Python
 4. Powershell
+5. Objective C
+6. Swift
 
 >Here is an example of python code...
 
