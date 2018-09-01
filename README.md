@@ -7,9 +7,22 @@ My general coding skills are as follows
 3. Python
 4. Powershell
 
+Here is an example of python code...
+
+```python
+someVar = "This is Python!"
+print someVar
+```
+
+
 I am familiar with...
 * Kali Linux
 * Mac OS
 * Windows
 * Raspi OS
 
+|I       | Don't have cool      | Table Ideas  |
+| ------------- |:-------------:| -----:|
+| This is left  | right-aligned | $1000 |
+| This is Down  | centered      | $140|
+| This Is | A small loan  | $1000000 |
