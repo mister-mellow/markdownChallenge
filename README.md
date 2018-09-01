@@ -1,6 +1,8 @@
 ## Markdown Challenge for INFOTC 2600
 #### More about me can be found [here](https://github.com/mister-mellow/markdownChallenge/blob/master/aboutMe.md)
 
+---
+
 My general coding skills are as follows
 1. PHP
 2. HTML/Javascript
@@ -15,7 +17,6 @@ My general coding skills are as follows
 someVar = "This is Python!"
 print someVar
 ```
-
 
 I am familiar with...
 * Kali Linux
