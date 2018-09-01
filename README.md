@@ -8,8 +8,8 @@ My general coding skills are as follows
 4. Powershell
 
 I am familiar with...
-.* Kali Linux
-.* Mac OS
-.* Windows
-.* Raspi OS
+* Kali Linux
+* Mac OS
+* Windows
+* Raspi OS
 
